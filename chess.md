@@ -4,8 +4,11 @@ layout: default
 
 # Chess Tournament
 
-Winner take all Chess Tournament. <br>
-Single round elimination for winners. <br>
+
+3 points for a win, 1 point for a draw, 0 points for a loss <br>
+Most points wins, winner takes all (split equally if there is a point tie for first) <br>
+Each player will be randomly matched against 5 others in the tournament. <br>
+5 minutes no increment games using the clock. Touch move, chess clock must be used with the same hand as moved the piece. <br>
 Losers battle it out for worst player in a “loser stay bracket”. <br>
 The best and worst players at TABConf get bragging rights. <br>
 
